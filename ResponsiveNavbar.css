@@ -1,0 +1,35 @@
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+    color: #f8f9fa !important;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 18px;
+    margin-left: 15px;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffc107 !important; 
+  }
+  
+  .navbar-dark .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28 255, 255, 255, 0.7 %29)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22' /%3e%3c/svg%3e");
+  }
+  section {
+    padding: 60px 0;
+  }
+  
+  .bg-secondary {
+    background-color: #343a40 !important;
+  }
+ 
