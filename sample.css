@@ -1,0 +1,41 @@
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+/* Container */
+.container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Name */
+.container h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #007BFF;
+}
+
+/* Bio */
+.bio {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+/* Image */
+.profile-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 3px solid #007BFF;
+}
